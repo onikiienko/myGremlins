@@ -1,0 +1,28 @@
+{
+  "name": "myGremlins",
+  "version": "0.0.0",
+  "description": "myGremlins ==========",
+  "main": "Gruntfile.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onikiienko/myGremlins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onikiienko/myGremlins/issues"
+  },
+  "homepage": "https://github.com/onikiienko/myGremlins",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "connect": "^2.19.6",
+    "grunt-gremlins": "0.0.3",
+    "minilog": "^2.0.5"
+  }
+}
