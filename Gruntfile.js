@@ -4,7 +4,7 @@ module.exports = function(grunt) {
 		gremlins: {
 		  tests: {
 		    options: {
-		      path: './examples/index.html'
+		      path: './index.html'
 		    }
 		  }
 		}
